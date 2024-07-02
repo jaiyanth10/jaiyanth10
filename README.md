@@ -16,7 +16,7 @@ preview
 
 - 📄 Know about my experiences [https://jaiyanthlakumarapu.vercel.app/JAIYANTH%20LAKUMARAPU%20RESUME.pdf](https://jaiyanthlakumarapu.vercel.app/JAIYANTH%20LAKUMARAPU%20RESUME.pdf)
 
-- ⚡ Fun fact **React.js was created by Facebook engineers who got tired of reloading the entire page and decided, "Why not just update the parts that change and call it a day?**
+- ⚡ Fun fact **React.js was created by Facebook engineers who got tired of reloading the entire page and decided, "Why not just update the parts that change and call it a day?"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
