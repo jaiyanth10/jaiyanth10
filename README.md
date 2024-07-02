@@ -61,8 +61,9 @@ preview
 <h4 align="left">Tools and Frameworks:</h4>
 <p align="left">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin: 5px; padding: 5px;"/> </a>
-    <a href="https://recharts.org/en-US/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/recharts/recharts.org/master/assets/img/logo.png" alt="recharts" width="40" height="40" style="margin: 5px; padding: 5px;"/> </a>
+    <a href="https://recharts.org/en-US/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/recharts/recharts-icon.svg" alt="recharts" width="40" height="40" style="margin: 5px; padding: 5px;"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 5px; padding: 5px;"/> </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin: 5px; padding: 5px;"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin: 5px; padding: 5px;"/> </a>
 </p>
+
