@@ -6,7 +6,7 @@ preview
 
 - 🔭 I’m currently working on **Video Playing App using React and Node JS**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://jaiyanthlakumarapu.vercel.app/](https://jaiyanthlakumarapu.vercel.app/)
 
