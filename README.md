@@ -10,11 +10,9 @@ preview
 
 - 👨‍💻 All of my projects are available at [https://jaiyanthlakumarapu.vercel.app/](https://jaiyanthlakumarapu.vercel.app/)
 
-- 💬 Ask me about **React JS, Next JS, Tailwind, SpringBoot**
+- 💬 Ask me about **UI Path, RPA, React JS, Next JS, Tailwind, SpringBoot**
 
 - 📫 How to reach me **jaiyanthlakumarapu10@gmail.com**
-
-- 📄 Know about my experiences [https://jaiyanthlakumarapu.vercel.app/JAIYANTH%20LAKUMARAPU%20RESUME.pdf](https://jaiyanthlakumarapu.vercel.app/JAIYANTH%20LAKUMARAPU%20RESUME.pdf)
 
 - ⚡ Fun fact **React.js was created by Facebook engineers who got tired of reloading the entire page and decided, "Why not just update the parts that change and call it a day?"**
 
