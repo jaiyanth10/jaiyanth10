@@ -8,8 +8,6 @@ preview
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://jaiyanthlakumarapu.vercel.app/](https://jaiyanthlakumarapu.vercel.app/)
-
 - 💬 Ask me about **UI Path, RPA, React JS, Next JS, Tailwind, SpringBoot**
 
 - 📫 How to reach me **jaiyanthlakumarapu10@gmail.com**
