@@ -4,11 +4,11 @@ preview
 <h1 align="center">Hello 👋, I'm Jaiyanth Lakumarapu</h1>
 <h3 align="center">A passionate fullStack developer</h3>
 
-- 🔭 I’m currently working on **Video Playing App using React and Node JS**
+- 🔭 I’m currently working on **bulding an agent using Pydantic AI **
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **UI Path, RPA, React JS, Next JS, Tailwind, SpringBoot**
+- 💬 Ask me about **UI Path, RPA, React JS, Next JS, Tailwind, SpringBoot, Agents, Agentic frameworks, LLMS.**
 
 - 📫 How to reach me **jaiyanthlakumarapu10@gmail.com**
 
